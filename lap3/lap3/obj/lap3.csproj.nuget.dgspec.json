@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sitth\\source\\repos\\lap3\\lap3\\lap3.csproj": {}
+    "C:\\Users\\Sitth\\source\\repos\\Computer vision\\lap3\\lap3\\lap3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sitth\\source\\repos\\lap3\\lap3\\lap3.csproj": {
+    "C:\\Users\\Sitth\\source\\repos\\Computer vision\\lap3\\lap3\\lap3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sitth\\source\\repos\\lap3\\lap3\\lap3.csproj",
+        "projectUniqueName": "C:\\Users\\Sitth\\source\\repos\\Computer vision\\lap3\\lap3\\lap3.csproj",
         "projectName": "lap3",
-        "projectPath": "C:\\Users\\Sitth\\source\\repos\\lap3\\lap3\\lap3.csproj",
+        "projectPath": "C:\\Users\\Sitth\\source\\repos\\Computer vision\\lap3\\lap3\\lap3.csproj",
         "packagesPath": "C:\\Users\\Sitth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sitth\\source\\repos\\lap3\\lap3\\obj\\",
+        "outputPath": "C:\\Users\\Sitth\\source\\repos\\Computer vision\\lap3\\lap3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

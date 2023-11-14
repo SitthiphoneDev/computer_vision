@@ -8,10 +8,7 @@ namespace lap3
 {
     public partial class Form1 : Form
     {
-        public Form1()
-        {
-            InitializeComponent();
-        }
+        public Form1() => InitializeComponent();
 
         Image<Bgr, Byte> My_Image;
         Image<Gray, Byte> Gray_Image;
@@ -95,16 +92,9 @@ namespace lap3
                         Gray_Image.Save(saveImage.FileName);
                         MessageBox.Show("Saving Complete");
                     }
-
-
                 }
-
-
             }
         }
-
     }
-
-
 }
     
